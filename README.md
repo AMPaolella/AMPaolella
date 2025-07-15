@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ParlayGPT - A iOS sports betting app leveraging AI to analyze and improve parlay bet outcomes.**
 
-- 🌱 I’m currently learning **Swift/SwiftUI and Preparing for AWS Cloud Practitioner certification.**
+- 🌱 I’m currently learning **Swift/SwiftUI and preparing for the AWS Cloud Practitioner certification.**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
