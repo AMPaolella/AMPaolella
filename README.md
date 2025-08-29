@@ -1,8 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Andrew Paolella</h1>
 <h3 align="center">A passionate technologist from the United States 🇺🇸</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ampaolella" alt="ampaolella" /></a> </p>
-
 - 🔭 I’m currently working on **ParlayGPT - A web-based sports betting app leveraging AI to analyze and improve parlay bet outcomes.**
 
 - 🌱 I’m currently learning **Swift/SwiftUI and preparing for the AWS Cloud Practitioner certification.**
